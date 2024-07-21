@@ -34,6 +34,7 @@
   </ul>
 
   <br>
+  
   <b>Work Experience</b>
   <p>Graduated from Virginia Tech in 2023. After graduation, I started working full-time at BLADE as a software engineer. BLADE is a Ruby shop and has two primary products: a customer-facing booking site and an internal flight logistics and reservations system.</p>
   <ul>
